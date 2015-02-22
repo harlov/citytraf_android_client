@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CityTraffic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_header">TrafficInspector 0.1 alpha</string>
+    <string name="label_longitude">Долгота</string>
+    <string name="label_latitude">Широта</string>
+    <string name="label_speed">Скорость</string>
+</resources>
